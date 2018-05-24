@@ -1,1 +1,6 @@
-# Weekly-Savings-Calculator
+# Weekly-Savings-Pot
+
+A python script to follow a 52 week money saving challenge.
+the script will tell yku how much to save for the current week and also the total amount currently saved.
+
+Enjoy
